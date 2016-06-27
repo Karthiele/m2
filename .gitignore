@@ -1,17 +1,3 @@
-commons-fileupload
-commons-io
-commons-lang
-commons-logging
-commons-validator
-dom4j
-io
-isorelax
-javax
-jaxen
-jdom
-jline
-junit
-log4j
 mockobjects
 msv
 net
